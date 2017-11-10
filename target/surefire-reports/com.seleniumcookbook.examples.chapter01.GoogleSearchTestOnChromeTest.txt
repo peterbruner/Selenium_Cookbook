@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.seleniumcookbook.examples.chapter01.GoogleSearchTestOnChromeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.347 sec
